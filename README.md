@@ -1,6 +1,6 @@
 # key-value-store
 
-Please find a writeup for this project in ProjectReport.pdf.
+Please find a writeup for this project (here)[ProjectReport.pdf].
 
 To compile code run: `make`
 
