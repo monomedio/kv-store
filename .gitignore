@@ -1,0 +1,9 @@
+.DS_store
+
+/ssts
+
+/tests/ssts/*
+/experiments/ssts/*
+!/experiments/ssts/.gitkeep
+!/tests/ssts/.gitkeep
+/src/btree-flush-test
